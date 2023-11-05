@@ -38,7 +38,8 @@ body {
 
 /* Question and Options */
 .question {
-    font-size: 18px;
+    font-size: 1.2rem;
+    font-weight: 600;
     margin-bottom: 10px;
 }
 
